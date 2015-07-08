@@ -1,0 +1,2 @@
+curl -H 'Accept: application/vnd.twitchtv.v2+json' \
+-X GET https://api.twitch.tv/kraken/channels/test_user1/follows
